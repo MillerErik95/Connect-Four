@@ -11,7 +11,7 @@ Connect Four - State Space Search - CustomAi vs NaiveAi
 GRID
 I used the default grid size of WIDTH: 7, HEIGHT 6, CELL SIZE: 72 when conducting the analysis of my ai against the naive ai.
 
-4. Within preferences, change EXECUTABLE path for PLAYER 1 PROGRAM to wherever you have your Python interpreter is installed.
+4. Within preferences, change EXECUTABLE path for PLAYER 1 PROGRAM to wherever you have your Python interpreter installed.
 
 5. Change the ARGUMENTS for PLAYER 1 PROGRAM to the downloaded file 'connect-four-miller.py'
 
